@@ -480,7 +480,7 @@ npm run dev
 MIT
 
 ## 👨‍💻 Author
-Created by **Aditya** | Full-Stack Developer
+Created by **Jasbir** | Full-Stack Developer
 
 ---
 
